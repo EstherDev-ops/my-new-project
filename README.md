@@ -1,0 +1,1 @@
+This paltform is designed for developers of all levels, from beginners to advanced. Providing a space to request and solve coding challenges, it aims to help users improve thier problem-solving skills through prctical, real-world programing tasks, encouraging continous learning and skill developmnet.
